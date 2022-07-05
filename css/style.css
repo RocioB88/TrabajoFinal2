@@ -1,0 +1,76 @@
+.homebody{
+    background-image: url(../imagenes/biblioteca.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.navbar-header a{
+    color: aliceblue;
+    line-height: 3;
+    font-family:'Dancing Script';
+    font-size: 30px;
+    margin-left: 5px;
+}
+.page_heading{
+    text-align: center;
+   font-family: 'Dancing Script';
+
+
+
+}
+label{
+    font-size: 36px;
+    font-weight: bold;
+    margin: 30px;
+    text-align: center;
+    font-family: 'Dancing Script';
+}
+
+.active{
+    color: aliceblue !important;
+}
+.agenda{
+    background-image: url(../imagenes/agenda.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+
+}
+.astrologia{
+    background-image: url(../imagenes/astrologia.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+  
+}
+.psicologia{ 
+    background-image: url(../imagenes/autoconocimiento.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+   
+
+}
+.ocultismo{ 
+    background-image: url(../imagenes/ocultismo.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+}
+.card-body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
+
+    
+  
+   
+
+
+
+}
